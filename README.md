@@ -14,7 +14,7 @@ Intel AI Global Impact Festival에 참여하여 진행한 버스 혼잡도 예�
 
 ### 3. 어려웠던점 / 개선사항
 
-- 어려웠던점😥
+- 어려웠던점😥</br>
 공공데이터를 수집하는 것, 필요한 데이터들을 찾아보는 것에 시간이 오래걸렸습니다. 대부분 버스데이터들은 크기가 너무 크거나 불필요한 데이터들이 많아 필요한 형태로 수정하고 데이터들을 결합하는 것에 어려움이 있었습니다. 
 
 - 개선사항✨
@@ -28,7 +28,7 @@ Intel AI Global Impact Festival에 참여하여 진행한 버스 혼잡도 예�
 - 😷 코로나19현황
 
 ### 5. Skills
-Skill : pandas, numpy, sklearn, matplotlib, seaborn
+Skill : pandas, numpy, sklearn, matplotlib, seaborn </br>
 Editer : Jupyter, Vscode, PyCharm
 
 ### 6. 결과화면
