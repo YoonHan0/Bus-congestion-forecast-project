@@ -1,4 +1,4 @@
-# Bus-congestion-forecast-project
+# Bus-congestion-forecast-project🚌
 Intel AI Global Impact Festival에 참여하여 진행한 버스 혼잡도 예측 프로젝트입니다. 버스의 혼잡도를 예측하여 배차간격을 늘리는 것을 최종목표로 하고 진행하였습니다.
 
 ### 1. 주제를 선정한 이유
