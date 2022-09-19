@@ -23,7 +23,7 @@ Intel AI Global Impact Festival에 참여하여 진행한 버스 혼잡도 예�
 </br>
 
 ## Skills / Editer
-Skill : pandas, numpy, sklearn, matplotlib, seaborn </br>
+Skill🔧 : pandas, numpy, sklearn, matplotlib, seaborn </br>
 Editer : Jupyter, Vscode, PyCharm </br>
 Language : Python, Jupyter Notebook
 
@@ -44,10 +44,10 @@ Language : Python, Jupyter Notebook
 </br>
 
 ## 어려웠던점 / 개선사항
-** - 어려웠던점😥**</br>
+- **어려웠던점😥**</br>
 공공데이터를 수집하는 것, 필요한 데이터들을 찾아보는 것에 시간이 오래걸렸습니다. 대부분 버스데이터들은 크기가 너무 크거나 불필요한 데이터들이 많아 필요한 형태로 수정하고 데이터들을 결합하는 것에 어려움이 있었습니다. 
 
-** - 개선사항✨**
+- **개선사항✨**
 1. `main.py`에 있는 코드를 모듈화해서 분리하는 식으로 리펙토링을 하면 좋을 것 같습니다.
 2. 혼잡도 예측까지는 구현을 완료하였습니다. 버스 배차간격을 조절하는 서비스까지 구현하고 싶습니다.
 
