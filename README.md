@@ -26,9 +26,10 @@ Intel AI Global Impact Festival에 참여하여 진행한 버스 혼잡도 예�
 - 🚌 [버스공공데이터](https://www.bigdata-transportation.kr/)
 - 🌈 [날씨데이터](https://data.kma.go.kr/cmmn/main.do)
 - 😷 코로나19현황
-### 5. 사용기술 + 버전
 
-pandas, numpy, sklearn, matplotlib, seaborn
+### 5. Skills
+Skill : pandas, numpy, sklearn, matplotlib, seaborn
+Editer : Jupyter, Vscode, PyCharm
 
 ### 6. 결과화면
 
